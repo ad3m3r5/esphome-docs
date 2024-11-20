@@ -42,6 +42,8 @@ Configuration variables
 
 - **is_rgbw** (*Optional*, boolean): Set to ``true`` if the strip is RGBW. Defaults to ``false``.
 
+- **is_wrgb** (*Optional*, boolean): Set to ``true`` if the strip is WRGB. Defaults to ``false``.
+
 - All other options from :ref:`Light <config-light>`.
 
 
